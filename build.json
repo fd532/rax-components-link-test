@@ -1,0 +1,8 @@
+{
+  "targets": [
+    "wechat-miniprogram"
+  ],
+  "minify": true,
+  "sourceMap": false,
+  "plugins": []
+}
